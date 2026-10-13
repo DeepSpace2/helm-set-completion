@@ -1,0 +1,6 @@
+tolerations:
+  - key: dedicated
+    operator: Equal
+image:
+  registry: registry.example.invalid
+  repository: sample/demo

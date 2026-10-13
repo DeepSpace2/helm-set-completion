@@ -1,0 +1,5 @@
+apiVersion: v2
+name: completion-demo
+description: Minimal chart for demonstrating Helm --set completion
+type: application
+version: 0.1.0
